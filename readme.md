@@ -34,10 +34,10 @@
 - solved\.ac에서 각 유저 별로 퍼포먼스에 따라 매주 랜덤으로 선정해 제공하는 8개 문제
 - solvedac_ranma 디렉터리에 40주차부터 주차별로 저장
 
-> ##### 42주차
-> https://github.com/hcm1206/Algorithm_Study_Archive/blob/master/solvedac_ranma/week42/week42.md  
+> ##### 43주차
+> https://github.com/hcm1206/Algorithm_Study_Archive/blob/master/solvedac_ranma/week43/week43.md  
 > 
-> **진행도 : (7/8)**
+> **진행도 : (1/8)**
 
 #### solved\.ac CLASS
 - solved\.ac에서 제공하는 수준별로 엄선된 에센셜 문제
