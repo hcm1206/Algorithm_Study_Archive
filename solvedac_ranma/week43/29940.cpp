@@ -5,25 +5,35 @@ int main() {
 	cin.tie(NULL);
 	ios_base::sync_with_stdio(false);
 
-	int n;
-	cin >> n;
+	int n, s;
+	cin >> n >> s;
 
-	int* rows = new int[n];
+	int* arr = new int[n];
+
 	for (int i = 0; i < n; ++i) {
-		rows[i] = i + 1;
+		cin >> arr[i];
 	}
-	for (int i = 0; i < n; ++i) {
-		int num;
-		cin >> num;
-		int temp = rows[i];
-		for (int j = 1; j <= num; ++j) {
-			rows[i - j + 1] = rows[i - j];
+
+	int l = 0;
+	int r = n - 1;
+
+	int cnt = 0;
+
+	while (l < r) {
+		if (arr[l] + arr[r] < s) {
+			l++;
 		}
-		rows[i - num] = temp;
+		else if (arr[l] + arr[r] > s) {
+			r--;
+		}
+		else {
+			cnt++;
+			l++;
+		}
 	}
-	for (int i = 0; i < n; ++i) {
-		cout << rows[i] << " ";
-	}
+	cout << cnt;
+
+	delete[] arr;
 
 	return 0;
 }
