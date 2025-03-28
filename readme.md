@@ -37,7 +37,7 @@
 > ##### 43주차
 > https://github.com/hcm1206/Algorithm_Study_Archive/blob/master/solvedac_ranma/week43/week43.md  
 > 
-> **진행도 : (1/8)**
+> **진행도 : (3/8)**
 
 #### solved\.ac CLASS
 - solved\.ac에서 제공하는 수준별로 엄선된 에센셜 문제
@@ -45,27 +45,27 @@
 - boj 디렉터리에 저장
 
 > ##### CLASS 2⁺⁺
-> <img src='https://static.solved.ac/class/c2.svg' width='50'>  
+> <img src='https://static.solved.ac/class/c2.svg' width='50'><br>  
 > 
 > https://solved.ac/class?class=2
 > **CLASS 2⁺⁺ : (35/40)**  
 
 > ##### CLASS 3⁺
-> <img src='https://static.solved.ac/class/c3.svg' width='50'>  
+> <img src='https://static.solved.ac/class/c3.svg' width='50'><br>  
 > 
 > https://solved.ac/class?class=3
 > **CLASS 3⁺ : (14/20)**  
 > **CLASS 3⁺⁺ : (29/48)**  
 
 > ##### CLASS 4⁺
-> <img src='https://static.solved.ac/class/c4.svg' width='50'>  
+> <img src='https://static.solved.ac/class/c4.svg' width='50'><br>  
 > 
 > https://solved.ac/class?class=4
 > **CLASS 4⁺ : (18/24)**  
 > **CLASS 4⁺⁺ : (25/48)**  
 
 > ##### CLASS 5
-> <img src='https://static.solved.ac/class/c5.svg' width='50'>  
+> <img src='https://static.solved.ac/class/c5.svg' width='50'><br>  
 > 
 > https://solved.ac/class?class=5
 > **CLASS 5 : (7/20)**  
@@ -73,7 +73,7 @@
 > **CLASS 5⁺⁺ : (7/48)**  
 
 > ##### CLASS 6
-> <img src='https://static.solved.ac/class/c6.svg' width='50'>  
+> <img src='https://static.solved.ac/class/c6.svg' width='50'><br>  
 > 
 > https://solved.ac/class?class=6
 > **CLASS 6 : (4/20)**  
